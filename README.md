@@ -1,4 +1,4 @@
-# Tablero de tareas
+# Tablero de tareas de Gustavo Romero
 
 Proyecto del Taller de Git y GitHub (ITSON).
 
